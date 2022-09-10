@@ -1,0 +1,33 @@
+#one{
+    position: absolute;
+    z-index: -3;
+}
+.max-width{
+    display: flex;
+}
+#two{
+    display: flex;
+}
+li{
+    width: 200px
+}
+#ok{
+    background-color: orange;
+}
+div{
+    display: inline-block;
+    border:none;
+}
+.content{
+    padding: 10px;
+}
+.container{
+    text-align: center;
+}
+button{
+    background-color: orange;
+}
+button:hover{
+    color:orangered;
+    background-color: white;
+}
